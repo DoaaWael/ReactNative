@@ -1,31 +1,39 @@
 {
 "TodoList": [
-      {
-            "id": 1,
-            "title": "Post 1"
+      { 
+            "title": "Today",
+            "key": 1
       },
-      {
-            "id": 2,
-            "title": "Post 2"
+      { 
+            "title": "create an app",
+            "key": 2
       },
-      {
-            "id": 3,
-            "title": "Post 3"
-      }
+      { 
+            "title": "play on the switch",
+            "key": 3
+      } 
   ],
-"TodoPint": [
+"TodoPoint": [
       {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "key": 1,
+            "check": false,
+            "body": "Software",
+            "todoListKey": 1
       },
       {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "key": 2,
+            "check": false,
+            "body": "DataBase",
+            "todoListKey": 1
+      },
+      {
+            "key": 3,
+            "check": false,
+            "body": "Duolingo",
+            "todoListKey": 1
       }
  ],
 "profile": {
-            "name": "typicode"
+            "name": "DoaaWael"
       }
 }
