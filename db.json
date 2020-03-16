@@ -1,31 +1,31 @@
 {
-      "title": "Today",
-      "list": [
-         {
-            "title": "Software",
-            "check": false,
-            "key": 1
-         },
-         {
-            "title": "DataBase",
-            "check": false,
-            "key": 2
-         },
-         {
-            "title": "Duolingo",
-            "check": false,
-            "key": 3
-         }
-      ],
-      "key": "1"
-   },
-   {
-      "title": "create an app",
-      "list": [],
-      "key": "2"
-   },
-   {
-      "title": "play on the switch",
-      "list": [],
-      "key": "3"
-   }
+"TodoList": [
+      {
+            "id": 1,
+            "title": "Post 1"
+      },
+      {
+            "id": 2,
+            "title": "Post 2"
+      },
+      {
+            "id": 3,
+            "title": "Post 3"
+      }
+  ],
+"TodoPint": [
+      {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+      },
+      {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+      }
+ ],
+"profile": {
+            "name": "typicode"
+      }
+}
