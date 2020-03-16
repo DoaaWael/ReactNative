@@ -1,3 +1,33 @@
-{ title: 'Today', list: [{ title: 'Software', check: false, key: 1 }, { title: 'DataBase', check: false, key: 2 }, { title: 'Duolingo', check: false, key: 3 }], key: '1' },
-    { title: 'create an app', list: [], key: '2' },
-    { title: 'play on the switch', list: [], key: '3' },
+[
+   {
+      "title": "Today",
+      "list": [
+         {
+            "title": "Software",
+            "check": false,
+            "key": 1
+         },
+         {
+            "title": "DataBase",
+            "check": false,
+            "key": 2
+         },
+         {
+            "title": "Duolingo",
+            "check": false,
+            "key": 3
+         }
+      ],
+      "key": "1"
+   },
+   {
+      "title": "create an app",
+      "list": [],
+      "key": "2"
+   },
+   {
+      "title": "play on the switch",
+      "list": [],
+      "key": "3"
+   }
+]
