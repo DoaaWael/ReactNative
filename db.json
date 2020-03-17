@@ -17,19 +17,19 @@
       {
             "key": 1,
             "check": false,
-            "body": "Software",
+            "title": "Software",
             "todoListKey": 1
       },
       {
             "key": 2,
             "check": false,
-            "body": "DataBase",
+            "title": "DataBase",
             "todoListKey": 1
       },
       {
             "key": 3,
             "check": false,
-            "body": "Duolingo",
+            "title": "Duolingo",
             "todoListKey": 1
       }
  ],
